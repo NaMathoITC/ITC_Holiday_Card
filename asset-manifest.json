@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ITC_Holiday_Card/static/css/main.9c005ace.chunk.css",
-    "main.js": "/ITC_Holiday_Card/static/js/main.95e8632b.chunk.js",
-    "main.js.map": "/ITC_Holiday_Card/static/js/main.95e8632b.chunk.js.map",
+    "main.css": "/ITC_Holiday_Card/static/css/main.7b5dfbac.chunk.css",
+    "main.js": "/ITC_Holiday_Card/static/js/main.0f365deb.chunk.js",
+    "main.js.map": "/ITC_Holiday_Card/static/js/main.0f365deb.chunk.js.map",
     "runtime-main.js": "/ITC_Holiday_Card/static/js/runtime-main.49ea1a3f.js",
     "runtime-main.js.map": "/ITC_Holiday_Card/static/js/runtime-main.49ea1a3f.js.map",
-    "static/css/2.2aac6f1d.chunk.css": "/ITC_Holiday_Card/static/css/2.2aac6f1d.chunk.css",
-    "static/js/2.5a1ac690.chunk.js": "/ITC_Holiday_Card/static/js/2.5a1ac690.chunk.js",
-    "static/js/2.5a1ac690.chunk.js.map": "/ITC_Holiday_Card/static/js/2.5a1ac690.chunk.js.map",
+    "static/css/2.38364062.chunk.css": "/ITC_Holiday_Card/static/css/2.38364062.chunk.css",
+    "static/js/2.526af72b.chunk.js": "/ITC_Holiday_Card/static/js/2.526af72b.chunk.js",
+    "static/js/2.526af72b.chunk.js.map": "/ITC_Holiday_Card/static/js/2.526af72b.chunk.js.map",
     "index.html": "/ITC_Holiday_Card/index.html",
-    "precache-manifest.290a329ca98c8c59ea3e36fec241e072.js": "/ITC_Holiday_Card/precache-manifest.290a329ca98c8c59ea3e36fec241e072.js",
+    "precache-manifest.db6d99a3c24781665fc97a95387e8835.js": "/ITC_Holiday_Card/precache-manifest.db6d99a3c24781665fc97a95387e8835.js",
     "service-worker.js": "/ITC_Holiday_Card/service-worker.js",
-    "static/css/2.2aac6f1d.chunk.css.map": "/ITC_Holiday_Card/static/css/2.2aac6f1d.chunk.css.map",
-    "static/css/main.9c005ace.chunk.css.map": "/ITC_Holiday_Card/static/css/main.9c005ace.chunk.css.map",
-    "static/js/2.5a1ac690.chunk.js.LICENSE.txt": "/ITC_Holiday_Card/static/js/2.5a1ac690.chunk.js.LICENSE.txt",
+    "static/css/2.38364062.chunk.css.map": "/ITC_Holiday_Card/static/css/2.38364062.chunk.css.map",
+    "static/css/main.7b5dfbac.chunk.css.map": "/ITC_Holiday_Card/static/css/main.7b5dfbac.chunk.css.map",
+    "static/js/2.526af72b.chunk.js.LICENSE.txt": "/ITC_Holiday_Card/static/js/2.526af72b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ITC_Holiday_Card/static/media/checkbcd1a436590360ed53ac2f46c76e43e4.bcd1a436.png",
     "static/media/chr1.png": "/ITC_Holiday_Card/static/media/chr1.4a500d27.png",
     "static/media/chr2.png": "/ITC_Holiday_Card/static/media/chr2.fa203c8c.png",
@@ -58,9 +58,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.49ea1a3f.js",
-    "static/css/2.2aac6f1d.chunk.css",
-    "static/js/2.5a1ac690.chunk.js",
-    "static/css/main.9c005ace.chunk.css",
-    "static/js/main.95e8632b.chunk.js"
+    "static/css/2.38364062.chunk.css",
+    "static/js/2.526af72b.chunk.js",
+    "static/css/main.7b5dfbac.chunk.css",
+    "static/js/main.0f365deb.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7ea757d5429b779d1b70de2a60cf3be",
+    "revision": "9d4e03a9a4cd4520987606c09924e4ce",
     "url": "/ITC_Holiday_Card/index.html"
   },
   {
-    "revision": "5b2c77712c789b46d222",
-    "url": "/ITC_Holiday_Card/static/css/2.2aac6f1d.chunk.css"
+    "revision": "7d65db892770ee7a6c50",
+    "url": "/ITC_Holiday_Card/static/css/2.38364062.chunk.css"
   },
   {
-    "revision": "5268b25886ba07bb0075",
-    "url": "/ITC_Holiday_Card/static/css/main.9c005ace.chunk.css"
+    "revision": "5ede96da905affc1d4f9",
+    "url": "/ITC_Holiday_Card/static/css/main.7b5dfbac.chunk.css"
   },
   {
-    "revision": "5b2c77712c789b46d222",
-    "url": "/ITC_Holiday_Card/static/js/2.5a1ac690.chunk.js"
+    "revision": "7d65db892770ee7a6c50",
+    "url": "/ITC_Holiday_Card/static/js/2.526af72b.chunk.js"
   },
   {
     "revision": "e65b7b851aa3e8b1269dc393cbbeb123",
-    "url": "/ITC_Holiday_Card/static/js/2.5a1ac690.chunk.js.LICENSE.txt"
+    "url": "/ITC_Holiday_Card/static/js/2.526af72b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5268b25886ba07bb0075",
-    "url": "/ITC_Holiday_Card/static/js/main.95e8632b.chunk.js"
+    "revision": "5ede96da905affc1d4f9",
+    "url": "/ITC_Holiday_Card/static/js/main.0f365deb.chunk.js"
   },
   {
     "revision": "e7609cf6e79c27541eff",

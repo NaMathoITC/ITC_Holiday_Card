@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ITC_Holiday_Card/precache-manifest.290a329ca98c8c59ea3e36fec241e072.js"
+  "/ITC_Holiday_Card/precache-manifest.db6d99a3c24781665fc97a95387e8835.js"
 );
 
 self.addEventListener('message', (event) => {
