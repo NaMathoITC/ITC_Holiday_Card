@@ -1,0 +1,53 @@
+
+.logo{
+width: 45px;
+margin-left: 20px;
+margin-bottom: 6px;
+margin-top: 6px;
+}
+
+.ui.mini.menu{
+    background-color:#eceff1 ;
+}
+
+
+.dropzone{
+    margin-top: 35px;
+    padding-top: 150px;
+    background-color: white;
+    border: 1px solid #ccd7dd ;
+    
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #263238;
+    font-size: 19px;
+    
+}
+
+
+
+.ui.color1.button {
+    background-color: #90a4ae;
+    color: white;
+}
+.ui.color1.button:hover {
+    background-color: #607d8b;
+}
+
+
+
+.dragtext{
+    color: #78909c;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.ui.big.breadcrumb{
+    color: #78909c;
+    margin-top: 21px;
+    margin-left: 21px;
+}
+
+
