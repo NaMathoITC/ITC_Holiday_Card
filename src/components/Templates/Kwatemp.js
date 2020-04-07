@@ -58,6 +58,7 @@ class Template extends Component {
         </div>
         <br/>
         <div className="template">
+         <h3 className="title">3. Design your card</h3>
           {this.state.image && (
           <img
             src={this.state.image.src || "https://via.placeholder.com/800x400"}
