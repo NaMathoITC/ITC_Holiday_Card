@@ -13,7 +13,7 @@ Web Application Architecture and Technologies
 - Multer
 - Google Firebase
 
-When building the Holiday Card Maker web application we decided to use the MERN Stack. MERN Stack comprises of four technologies namely: MongoDB, Express, React and Node. js. We chose this stack because of its easy and fast deployment.   
+When building the Holiday Card Maker web application we decided to use the MERN Stack. MERN Stack comprises of four technologies namely: MongoDB, Express.js, React.js and Node.js. We chose this stack because of its easy and fast deployment.   
 
 ![MERN Stack](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
 
@@ -62,7 +62,7 @@ The following code below uses the GridFS to connect to our database and divides 
 
 ### Semantic UI Design
 
-For web design we used Semantic UI because of its sleek and modern design. Semantic UI is a front end framework that works very well with React. It allowed us to add multiple design components and elements to our page with ease. We also implemented the image-picker package in order to create a simple template selection which showcases the full image overlay once the user selects their desired design
+For web design we used Semantic UI because of its sleek and modern design. Semantic UI is a front end framework that works very well with React. It allowed us to add multiple design components and elements to our page with ease. We also implemented the image-picker package in order to create a simple template selection which showcases the full image overlay once the user selects their desired design.
 
 <img src="https://user-images.githubusercontent.com/39684482/78523817-e6386500-7786-11ea-9b2d-8bc8c8d45141.png" width="90%"></img> 
 
